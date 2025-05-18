@@ -17,4 +17,4 @@ Web Developer @ freelancer
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/murugan0007?theme=dark&font=Vollkorn%20SC)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Murugan-kombaiya github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Murugan-kombaiya&bg_color=131112&color=f2f2f2&line=699e4c&point=ede3e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
