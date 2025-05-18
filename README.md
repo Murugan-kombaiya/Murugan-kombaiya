@@ -13,7 +13,7 @@ Web Developer @ freelancer
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo"/>
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+[![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)](https://github-readme-stats.vercel.app/api?username=Murugan-kombaiya&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/murugan0007?theme=dark&font=Vollkorn%20SC)
 
